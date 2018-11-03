@@ -1,4 +1,9 @@
 ---
 layout: home
 author_profile: true
+paginate_path: /home/page:num
 ---
+
+{% capture my-include %}{% include intro.md %}{% endcapture %}
+
+{{ my-include | markdownify }}

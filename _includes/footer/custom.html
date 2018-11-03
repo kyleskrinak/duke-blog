@@ -1,3 +1,8 @@
 <!-- start custom footer snippets -->
 
+{% capture disclaim-text %}
+[website disclaimer]({{ site.baseurl  }}/pages/disclaimer.html "My curiously inspired disclaimer"){: .btn .btn--danger}
+{% endcapture %}
+
+{{ disclaim-text | markdownify }}
 <!-- end custom footer snippets -->
