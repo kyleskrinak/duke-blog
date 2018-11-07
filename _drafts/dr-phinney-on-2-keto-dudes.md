@@ -22,6 +22,10 @@ categories:
 
 0:38:00 Activity helps increase ketones. 
 
-0:38:45 Exercise/not exercise study. At 60% peak performance, burning around 700 calories a day. The body sensed it was in privation, slowed down metabolism, commensurate with energy need from exercising. Resting metabolic rate to the exercises decreased resting metabolism. No difference in weight loss. The body accurately calculated the difference between the requirement for exercise, and those that didn’t exercise. Satiety is all part of the same system.
+0:38:45 Exercise/not exercise study. At 60% peak performance, the exercising participants burned around 700 calories a day. The results showed that the body sensed it was in privation, slowed down metabolism, commensurate with energy needed to support the daily exercise. Resting metabolic rate for those whom exercised experienced decreased resting metabolism to offset the difference. There was no difference in weight loss. The body accurately calculated the difference between the requirement for exercise, and those that didn’t exercise. Satiety is all part of the same system.
 
-0:49:00 An experiment on people with pre-diabetes and underlining insulin resistance. A prompt reduction in insulin resistance and improvement in biomarkers.
+0:49:00 An experiment on people with pre-diabetes and underlining insulin resistance. A prompt reduction in insulin resistance and improvement in biomarkers. Reduce medicine for diabetes by more than half. 
+
+0:52:00 Don’t let perfect be the enemy of the good. The weight-loss may not be as dramatic as what most will like but will improve all health markers. LCHF dieters loss from 10 - 20% of their weight. Fewer than 5% lose 30% of their weight. Feasible to do long term, with proper coaching.
+
+0:55:00 long term use of Ketogenic diets? Waited for evidence that long term use was safe. Ketogenic diets lower the markers that indicate poor heart health.
