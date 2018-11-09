@@ -3,9 +3,9 @@ layout: single
 title: My Windows 10 Setup
 excerpt: How I like my default Windows 10 configured
 header:
-  overlay_image: /assets/images/hot_tub.jpg
+  overlay_image: /assets/images/punch_card.jpg
   overlay_filter: rgba(128, 0, 0, 0.5)
-  caption: image from [here](https://commons.wikimedia.org/wiki/File:Bagby_hot_springs_oregon.jpg#file)
+  caption: image from [here](https://en.wikipedia.org/wiki/User_interface)
 categories:
   - lchf
   - Personal productivity
