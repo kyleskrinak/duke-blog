@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/reveal/css/reveal.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/reveal/css/theme/white.css">
+  </head>
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+
+    {% include_cached browser-upgrade.html %}
+
+    <div class="reveal">
+      <div class="slides">
+        <section data-markdown
+                 data-separator="^\n\n\n"
+                 data-separator-vertical="^\n\n"
+                 data-separator-notes="^Note:">
+          {{ content }}
+        </section>
+      </div>
+    </div>
+
+    <script src="{{ site.baseurl }}/assets/reveal/js/reveal.js"></script>
+    <script src="{{ site.baseurl }}/assets/reveal/plugin/markdown/marked.js"></script>
+    <script src="{{ site.baseurl }}/assets/reveal/plugin/markdown/markdown.js"></script>
+    <script>
+      Reveal.initialize();
+    </script>
+
+  </body>
+</html>
