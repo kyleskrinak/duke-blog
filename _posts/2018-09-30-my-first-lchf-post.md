@@ -9,6 +9,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "My wife is an amazing cook."
 date: 2018-09-30 21:39 -0400
+classes: wide
 comments: true
 ---
 
