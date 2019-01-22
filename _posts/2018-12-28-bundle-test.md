@@ -1,6 +1,7 @@
 ---
 layout: reveal
 title: bundle test
+excerpt: testing the feasibility of incorporating reveal.js into my blog
 ---
 {::nomarkdown}
 
