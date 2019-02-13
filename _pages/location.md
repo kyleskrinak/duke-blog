@@ -3,6 +3,7 @@ title: TTS Office Location
 layout: single 
 permalink: /pages/location.html
 author_profile: true
+classes: wide
 ---
 
 My office is at **905 West Main Street, Suite 25B** in bustling Durham, NC. We are located in at [Brightleaf Square](http://historicbrightleaf.com/directions/ "Directions to Brightleaf Square"), in Durham NC. There is free visitor parking off S. Main Street, between S. Duke St and S. Gregson St, but remember we’ll need to validate your parking ticket. We _(as indicated by the blue checkmark on the map, below)_ are located on the floor above the El Rodeo restaurant.
