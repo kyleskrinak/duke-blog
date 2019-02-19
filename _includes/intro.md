@@ -6,5 +6,5 @@ Please Use <trinitywebsupport@duke.edu> for all support-related correspondence. 
 If you need to schedule time with me, here is my [work calendar]( {{ site.baseurl }}/pages/calendar.html ).
 {: .notice--success}
 
-Click [here]( {{ site.baseurl }}/pages/location.html) for a map view of our office and what you need to go to get here.
+Click [here]( {{ site.baseurl }}/pages/location.html "link to a Google map of our office.") for a map view of our office and what you need to go to get here.
 {: .notice--info}
