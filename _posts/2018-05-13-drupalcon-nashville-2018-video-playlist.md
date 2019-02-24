@@ -41,11 +41,11 @@ Below is my list of videos to catch up on DrupalCon Nashville 2018. The first is
 * [DrupalCon Nashville 2018: Next Level Twig: Extensions](https://www.youtube.com/watch?v=iwNl7CD9z3o) _(w)_
 * [DrupalCon Nashville 2018: Level up! A Drupaler's Fast Track to Creating a Symfony App!](https://www.youtube.com/watch?v=htWU90pTd1A)
 * [DrupalCon Nashville 2018: All Performance is Mobile Performance](https://www.youtube.com/watch?v=DmUVyBYHIVA) _(w)_
-* [DrupalCon Nashville 2018: Deliver a more robust search with Search API and Solr](https://www.youtube.com/watch?v=LzWM9jpr354)
+* [DrupalCon Nashville 2018: Deliver a more robust search with Search API and Solr](https://www.youtube.com/watch?v=LzWM9jpr354) _(w)_
 * [DrupalCon Nashville 2018: Why Drupal Is Not a Word Processor](https://www.youtube.com/watch?v=W6lM-9SbGrc)
-* [DrupalCon Nashville 2018: Continuous Integration has never been so easy](https://www.youtube.com/watch?v=UOpmmo_P1JU)
-* [DrupalCon Nashville 2018: Decoupled Drupal Hard Problems](https://www.youtube.com/watch?v=3wHl0_jHpzU)
-* [DrupalCon Nashville 2018: The Rise of the Distributed Database](https://www.youtube.com/watch?v=wDHgJSV-s3c)
+* [DrupalCon Nashville 2018: Continuous Integration has never been so easy](https://www.youtube.com/watch?v=UOpmmo_P1JU) _(w)_
+* [DrupalCon Nashville 2018: Decoupled Drupal Hard Problems](https://www.youtube.com/watch?v=3wHl0_jHpzU) _(w)_
+* [DrupalCon Nashville 2018: The Rise of the Distributed Database](https://www.youtube.com/watch?v=wDHgJSV-s3c) _(w)_
 * [DrupalCon Nashville 2018: Principles of Unit Testing](https://www.youtube.com/watch?v=EcPuQe3lVDM)
 * [DrupalCon Nashville 2018: Modernize D8 Admin UX and Accessibility with Material Admin Theme](https://www.youtube.com/watch?v=0c8pfsJSZ-c)
 * [DrupalCon Nashville 2018: Infrastructure Troubleshooting Secrets, Revealed!](https://www.youtube.com/watch?v=4HH4xBx2tWE)

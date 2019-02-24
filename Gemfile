@@ -31,6 +31,7 @@ group :jekyll_plugins do
   gem "jekyll-archives"
   gem "jekyll-compose"
   gem "jekyll-include-cache"
+  gem "jekyll-gzip"
 
 end
 
