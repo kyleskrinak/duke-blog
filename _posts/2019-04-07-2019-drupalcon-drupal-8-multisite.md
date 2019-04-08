@@ -252,6 +252,7 @@ http://bit.ly/DC19-HES
 
 * Base our distribution on Acquia’s Lightning distribution
   * https://github.com/acquia/lightning
+* Build an installation profile
 
 
 # What’s Next?
