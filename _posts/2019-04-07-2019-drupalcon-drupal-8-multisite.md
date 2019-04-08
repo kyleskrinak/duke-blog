@@ -41,8 +41,8 @@ http://bit.ly/DC19-HES
 * Two Drupal website designers and developers
 * Two Symfony custom application developers
 * Three sysadmins, including one Drupal lead
-* Host 380 websites, including 126 Drupal websites 
-* Highly normalized platform &mdash; branding, features and content
+* Host 380 websites, including 108 Drupal websites 
+* Highly normalized platform &mdash; branding, features, and content
 * Support third-party developed websites
 * Plus a bevy of other web and sysadmin-related support
 * We maintain an excellent support reputation
@@ -59,7 +59,7 @@ http://bit.ly/DC19-HES
 * PHP’s aggressive EoL change
 * Shibboleth SSO
 * Third-party integrations: e.g., Qualtrics forms and Box for storage
-* 126 websites on a clustered server pair
+* 108 websites on a clustered server pair
 * A varnish and a pound load balancer.
 * A staging and production server per website
 
@@ -72,7 +72,7 @@ http://bit.ly/DC19-HES
 * Ansible pulls Drupal core updates from d.o.
 * Three git repos for code
   * Global
-    1. Our **sites/all** _(contrib modules, themes and libraries)_ repo
+    1. Our **sites/all** _(contrib modules, themes, and libraries)_ repo
     1. **Trinity-level theme** _(Omega-based)_ repo at sites/all/themes
   * per website
     1. **Website repo** _(theme, modules, libraries)_ in the  
@@ -225,6 +225,15 @@ http://bit.ly/DC19-HES
 
 
 
+# GitLab CI/CD Demo
+
+----
+
+[Link](https://www.youtube.com/embed/_3wf9p9v5ik)
+
+
+
+
 # Features and Benefits
 
 ----
@@ -241,8 +250,8 @@ http://bit.ly/DC19-HES
 
 ----
 
-* Base our distribution on Acquia’s Lightening distribution
-
+* Base our distribution on Acquia’s Lightning distribution
+  * https://github.com/acquia/lightning
 
 
 # What’s Next?
@@ -255,6 +264,7 @@ http://bit.ly/DC19-HES
 * Trigger deployments with commit tags
 * Improve integration of website-level configuration management
 * Backport what we can to our D7 workflow
+
 
 
 
