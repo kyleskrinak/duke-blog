@@ -6,7 +6,14 @@ author_profile: true
 classes: wide
 ---
 
-My office is at **905 West Main Street, Suite 25B** in bustling Durham, NC. We are located in at [Brightleaf Square](http://historicbrightleaf.com/directions/ "Directions to Brightleaf Square"), in Durham NC. There is free visitor parking off S. Main Street, between S. Duke St and S. Gregson St, but remember we’ll need to validate your parking ticket. We _(as indicated by the blue checkmark on the map, below)_ are located on the floor above the El Rodeo restaurant.
+My office is at **905 West Main Street, Suite 25B,** in bustling Durham, NC. We are located in at [Brightleaf Square](http://historicbrightleaf.com/directions/ "Directions to Brightleaf Square"), in Durham, NC. 
+
+I'm sorry to report that as of June 21st, 2019, Brightleaf Square has changed what parking options they offer. Brightleaf Square no longer offers free visitor parking off S. Main Street, between S. Duke St and S. Gregson St. On the map, below, I have visually marked in transparent yellow, nearby parking options.
+
+* The old visitor parking area now requires payment upon exit.
+* There usually is parking along West Peabody Street, on the side closest to the railroad tracks. You may park there for up to two hours maximum. Note: Durham is pretty aggressive about ticketing beyond 2-hour parking. **Generally speaking, this is your safest bet for parking.**
+* There is parking on the west side of the Brightleaf Square area, but this lot is nearly always full.
+* *Finally,* Durham has a public parking garage on West Pettigrew street, on the other side of the railroad tracks from Brightleaf Square. Usually, but not always, the gate is up, meaning you may park there. However, Durham randomly closes access to this garage.
 
 There are two Brightleaf Square buildings, a North building, on West Main, and a South building, on West Peabody Street, which is also closer to the railroad tracks. The South building, indicated with a green overlay on the map below, is where you'll find our office. Use the entrance closest to North Gregson Street, marked on the map, below, with red pegs. After you enter our building, you'll see steps as you walk toward the middle of the building. We're on the second floor, a right turn off the steps.
 
