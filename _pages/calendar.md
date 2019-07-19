@@ -7,7 +7,4 @@ permalink: /pages/calendar.html
 
 Please note: the outlook calendar may take up to 20 seconds to load.
 
-Note: since June 12, 2019, the Outlook calendar has been failing to load. We hope to have this addressed soon.
-{: .notice--info}
-
 <div class="iframe-wrapper"><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="100%" height="600" src="//outlook.office365.com/owa/calendar/kyle.skrinak@duke.edu/Calendar/calendar.html" onload="this.height=this.contentWindow.document.body.scrollHeight;"></iframe></div>
