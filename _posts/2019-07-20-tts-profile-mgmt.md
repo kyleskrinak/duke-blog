@@ -8,6 +8,11 @@ permalink: /presentations/19-07-tts-profile.html
 
 # How to Manage Departmental Faculty and Staff Data
 
+----
+
+#### This presentation:
+http://bit.ly/2019-07-OpenOffice
+
 
 
 ## Kyle Skrinak, I.T. Manager 
