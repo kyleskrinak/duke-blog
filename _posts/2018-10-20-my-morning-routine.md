@@ -10,7 +10,6 @@ excerpt: How stumbling into a morning routine became surprisingly transformative
 header:
   overlay_image: /assets/images/NOLA-morning.jpg
   overlay_filter: 0.6
-  caption: Morning in New Orleans, May, 2016, © Kyle Skrinak
 date: 2018-10-20 13:41 -0400
 ---
 

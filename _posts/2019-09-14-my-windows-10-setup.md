@@ -28,6 +28,7 @@ All of which reminds me: time to update my vimrc configuration file. Or should I
 
   1. Image machine with the [Trinity Technology Services](https://scholars.duke.edu/display/org50000612) standard image
   1. Enable my user account with correct privileges 
+  1. Uninstall any MS Office via add/remove programs UI. (Part of the TTS image.)
   1. Run [Windows Update](https://windowsupdate.microsoft.com)
       * This can take several restarts
   1. Install [Lastpass](https://www.lastpass.com/)
@@ -43,17 +44,31 @@ All of which reminds me: time to update my vimrc configuration file. Or should I
   1. Install [Microsoft/Terminal: The new Windows Terminal](https://github.com/Microsoft/Terminal) and [Ubuntu](http://www.ubuntu.com/) from the [Online Microsoft Store](https://www.microsoft.com/en-us/store)
   1. Install [Homebrew on Linux](https://docs.brew.sh/Homebrew-on-Linux) into WSL
       * Install ssh keys
-      * `sudo apt-get install build-essential binutils file openssl`  
-	*(brew won't install without this, see this <a href="https://github.com/Homebrew/linuxbrew-core/issues/13596">link</a>)*
-      * sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
+        * fix the perms on the new keys:
+          * `cd ~/.ssh`
+          *  `chmod 700 .`
+          *  `chmod 600 *`
+          *  `chmod 644 pub.*`
+      * `sudo apt-get update && sudo apt-get install build-essential binutils file openssl libssl-dev`  
+         *(brew won't install without this, see this <a href="https://github.com/Homebrew/linuxbrew-core/issues/13596">link</a>)*
+      * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"`
       * It is import to add the linuxbrew path to profile for this to work
   1. Install zsh
       * Install [Oh My Zsh - a delightful &amp; open source framework for Zsh](https://ohmyz.sh/)
-      * sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-      * You must add the new zsh path to /etc/shells
-      * Add to PATH: /home/linuxbrew/.linuxbrew/bin
+        * use `brew install zsh` before running the oh-my-zsh script. 
+        * Add the path for $(which zsh) to /etc/shells. 
+        * Let the OMZ script configure your zsh as default shell.
+      * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+      * Further zsh customizations
+        * plugins = git, ssh-agent and vi-mode
+        * add zstyle configurations for ssh-agent:
+        * zstyle :omz:plugins:ssh-agent agent-forwarding on
+        * zstyle :omz:plugins:ssh-agent identities key1 key2
+        * You must add `export PATH=/home/linuxbrew/.linuxbrew/bin:$PATH` to the beginning of your .zshrc file.
   1. Install vimfiles
       * [GitHub - kyleskrinak/vim-files-2.0: My vim configuration files](https://github.com/kyleskrinak/vim-files-2.0)
+      * I might be migrating to NeoVim. I like the configuration setup better. Stay tuned.
+        * New repo: [GitHub - kyleskrinak/neovim: My neovim configuration files](https://github.com/kyleskrinak/neovim)
   1. Load [AutoHotkey](https://www.autohotkey.com/) autoscripts
       * At shell:startup
   1. Enable fingerprint scanner
