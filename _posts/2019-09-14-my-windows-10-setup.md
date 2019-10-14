@@ -42,17 +42,23 @@ All of which reminds me: time to update my vimrc configuration file. Or should I
       * `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
   1. Establish [Microsoft OneDrive](https://onedrive.live.com) user configuration
   1. Install [Microsoft/Terminal: The new Windows Terminal](https://github.com/Microsoft/Terminal) and [Ubuntu](http://www.ubuntu.com/) from the [Online Microsoft Store](https://www.microsoft.com/en-us/store)
+      * Use either `cmd.exe` or `powershell` to run the `ubuntu` command to create your user account for the ubuntu instance. Afterwards, you’ll be able to access the `ubuntu` shell profile within `Windows Terminal`, now my favorite Windows shell.
   1. Install [Homebrew on Linux](https://docs.brew.sh/Homebrew-on-Linux) into WSL
       * Install ssh keys
         * fix the perms on the new keys:
           * `cd ~/.ssh`
           *  `chmod 700 .`
           *  `chmod 600 *`
-          *  `chmod 644 pub.*`
+          *  `chmod 644 *.pub`
       * `sudo apt-get update && sudo apt-get install build-essential binutils file openssl libssl-dev`  
          *(brew won't install without this, see this <a href="https://github.com/Homebrew/linuxbrew-core/issues/13596">link</a>)*
       * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"`
       * It is import to add the linuxbrew path to profile for this to work
+      * Helpful cleanup commands:
+        * `sudo apt autoremove`
+	* `echo 'eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)' >>~/.profile`
+        * `eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)`
+        * `brew install gcc`
   1. Install zsh
       * Install [Oh My Zsh - a delightful &amp; open source framework for Zsh](https://ohmyz.sh/)
         * use `brew install zsh` before running the oh-my-zsh script. 
@@ -69,7 +75,10 @@ All of which reminds me: time to update my vimrc configuration file. Or should I
       * [GitHub - kyleskrinak/vim-files-2.0: My vim configuration files](https://github.com/kyleskrinak/vim-files-2.0)
       * I might be migrating to NeoVim. I like the configuration setup better. Stay tuned.
         * New repo: [GitHub - kyleskrinak/neovim: My neovim configuration files](https://github.com/kyleskrinak/neovim)
+	* Neovim conf files go here: `%USERPROFILE%\AppData\Local\nvim`
   1. Load [AutoHotkey](https://www.autohotkey.com/) autoscripts
       * At shell:startup
-  1. Enable fingerprint scanner
-      * [Enable fingerprint and PIN for Windows 10](https://www.addictivetips.com/windows-tips/enable-fingerprint-and-pin-login-windows-10-1803/)
+  1. Use Windows Hello for device authentication
+     1. Enable fingerprint scanner
+         * [Enable fingerprint and PIN for Windows 10](https://www.addictivetips.com/windows-tips/enable-fingerprint-and-pin-login-windows-10-1803/)
+
