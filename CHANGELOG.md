@@ -2,6 +2,23 @@
 
 ### Enhancements
 
+- Bump Jekyll gem dependency to `v3.7`.
+
+### Bug Fixes
+
+- Fix repeated site base path for masthead logo. [#2385](https://github.com/mmistakes/minimal-mistakes/pull/2385)
+
+## [4.18.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.18.1)
+
+### Bug Fixes
+
+- Fix compatibility issue with jekyll-paginate-v2. [#2381](https://github.com/mmistakes/minimal-mistakes/pull/2381)
+
+## [4.18.0](https://github.com/mmistakes/minimal-mistakes/releases/tag/4.18.0)
+
+### Enhancements
+
+- Allow `home` layout to display posts without pagination. [#2378](https://github.com/mmistakes/minimal-mistakes/pull/2378)
 - Add links to high resolution skin screenshots in README. [#2363](https://github.com/mmistakes/minimal-mistakes/issues/2363)
 - Update README and LICENSE. [#2367](https://github.com/mmistakes/minimal-mistakes/pull/2367)
 - Update `.gitignore` file. [#2366](https://github.com/mmistakes/minimal-mistakes/pull/2366)

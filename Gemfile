@@ -1,3 +1,6 @@
+# Deprecate.skip = true if defined?(Deprecate.skip)
+# Gem::Deprecate.skip = true if defined?(Gem::Deprecate.skip)
+
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
