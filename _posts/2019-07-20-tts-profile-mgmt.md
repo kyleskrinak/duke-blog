@@ -1,7 +1,7 @@
 ---
 layout: reveal
 title: How to Manage Departmental Faculty and Staff Data
-excerpt: TTS’s July 2019 Open Office Hours presentation
+excerpt: TTS’s July 2019 Open Office Hours presentation, revised April 2020
 permalink: /presentations/19-07-tts-profile.html
 ---
 {::nomarkdown}
@@ -11,8 +11,7 @@ permalink: /presentations/19-07-tts-profile.html
 ----
 
 #### This presentation:
-http://bit.ly/2019-07-OpenOffice
-
+https://bit.ly/2020-04-OpenOffice
 
 
 ## Kyle Skrinak, I.T. Manager 
@@ -25,8 +24,7 @@ https://people.duke.edu/~kds38
 ----
 
 #### This presentation:
-http://bit.ly/2019-07-OpenOffice
-
+https://bit.ly/2020-04-OpenOffice
 
 
 # What we’re covering today
@@ -37,29 +35,22 @@ http://bit.ly/2019-07-OpenOffice
 
 ----
 
-* Faculty profile data
-  * Lamont Cannon,  
-  Outreach Coordinator for Scholars
-* Staff profile data
-* Group membership not in Scholars
-* Administrative assignments
+* Updating faculty and staff profile data
+* Department group membership not in Scholars
+* Assigning administrative assignments
 
 
 
 # Who Does What?
 
-* Your department’s _power users_ are responsible for updating profile information
-  * Any faculty member or staff may update his or her profile as well
-* _TTS_ is responsible for the reliable operation of our directory system
+----
+
+* The _content editors_ are responsible for the content of their department or group’s website.
+* Your _power users_ are responsible for updating profile information
+  * Any department member may update his or her profile as well
+  * The Scholars list of power users is here: https://about.scholars.duke.edu/locate-power-user
+* _Trinity Technology Services_ is responsible for the reliable operation of our directory system
 * The _Scholars team_ manages the Scholars.duke.edu web site and data interaction
-* Who to contact firstly?
-
-----
-
-trinitywebsupport@duke.edu  
-*And not any single TTS staff member’s address, please.*
-
-----
 
 
 
@@ -88,10 +79,23 @@ Handy reference
 1. Your group’s profile data also goes to trinity.duke.edu’s master directory for all Trinity College of Arts &amp; Sciences members.  
 https://trinity.duke.edu/directory
 2. You may have to wait up to 48 hours to see your profile changes apply to your web site.
+3. What about unpublished department member nodes?
 
 
 
-# Scholars Presentation
+# Who Do I Contact for Help?
+
+----
+
+* **Simple rule:** Confirm Scholars profile data. If Scholars data is incorrect, then contact your power user.
+* If Scholars profile data is correct, but your website’s data is incorrect, then contact:
+
+----
+
+trinitywebsupport@duke.edu  
+*And not any single TTS staff member’s address, please.*
+
+----
 
 
 
