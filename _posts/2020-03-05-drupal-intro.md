@@ -70,23 +70,37 @@ http://bit.ly/2019-07-OpenOffice
 
 ----
 
-### A presentation by
-## Joel Crawford-Smith
-### Sr. Web Accessibility Administrator for Duke
+## A video presentation on   
+## “What is Web Accessibility?” 
 
-[Link to accessibility video](https://drive.google.com/file/d/1bk3AtrxzdD20OnfudFQn_xsc36oWBIQ3/view?t=0m49s "Joel Crawford-Smith's Accessibility video link")
+[Link to accessibility video](https://youtu.be/20SHvU2PKsM "Introduction to Web Accessibility and W3C Standards")
 
+How does this pertain to me?
+
+For more info at Duke, check out
+
+[Duke’s Accesibility website link](https://web.accessibility.duke.edu/ "Duke’s Accesibility website link")
 
 
 
 # Getting support
 
-----
-
 trinitywebsupport@duke.edu  
 *And not any single TTS staff member’s address, please.*
 
 ----
+
+### You can find online documentation at
+
+https://bit.ly/TTS-Drupal-Documentation
+
+----
+
+### How’d I do?
+
+----
+
+https://bit.ly/TTS-Training-Feedback-Form
 
 
 
