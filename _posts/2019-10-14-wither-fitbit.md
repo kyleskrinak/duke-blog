@@ -11,6 +11,7 @@ categories:
 classes: wide
 title: Wither Fitbit?
 date: 2019-10-14 12:46 -0400
+hidden: true
 ---
 > What’s worse than a watch that nags you with bad advice? I don’t know, but that has the makings of a good joke. 
 

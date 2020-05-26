@@ -11,6 +11,7 @@ header:
   overlay_image: /assets/images/NOLA-morning.jpg
   overlay_filter: 0.6
 date: 2018-10-20 13:41 -0400
+hidden: true
 ---
 
 {% include figure image_path="/assets/images/win_the_day_33423.jpg" alt="Quote by Tim Ferriss, image from https://www.inc.com/chris-winfield/5-morning-rituals-that-help-you-win-the-day-.html" caption="Quote by Tim Ferriss, image from <a href='https://www.inc.com/chris-winfield/5-morning-rituals-that-help-you-win-the-day-.html'>inc.com</a>" %}

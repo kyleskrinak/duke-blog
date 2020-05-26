@@ -11,6 +11,7 @@ categories:
 - Personal
 classes: wide
 date: 2019-10-31 17:30 -0400
+hidden: true
 ---
 ## “Did you know you brighten my day? You are like sunshine to me.”
 

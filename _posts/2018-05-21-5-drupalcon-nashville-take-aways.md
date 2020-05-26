@@ -6,6 +6,13 @@ categories:
   - Drupal
 tags:
   - Drupalcon Nashville 2018
+header:
+  overlay_image: /assets/images/drupal_logo.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "drupal"
+  actions:
+  - label: "more info"
+    url: "https://drupal.org"
 ---
 
 For our Drupal @ Duke meetup, here are my top five take-aways from this year's DrupalCon Nashville.

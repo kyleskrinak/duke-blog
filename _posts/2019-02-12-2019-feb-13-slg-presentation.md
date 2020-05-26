@@ -3,6 +3,7 @@ layout: reveal
 title: 2019-Feb-13 SLG Presentation
 excerpt: Trinity’s presentation to the Security Liaison’s Group on Hardening and Unanticipated Affects
 permalink: /presentations/2019-Feb-SLG.html
+comments: false
 ---
 {::nomarkdown}
 

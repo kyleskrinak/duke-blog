@@ -5,6 +5,13 @@ categories:
   - Drupal
 tags:
   - Multisite
+header:
+  overlay_image: /assets/images/drupal_logo.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Drupal"
+  actions:
+  - label: "More Info"
+    url: "https://drupal.org"
 ---
 
 

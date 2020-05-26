@@ -8,3 +8,6 @@ If you need to schedule time with me, here is my [work calendar]( {{ site.baseur
 
 Click [here]( {{ site.baseurl }}/pages/location.html "link to a Google map of our office.") for a map view of our office and what you need to go to get here.
 {: .notice--info}
+
+Due to <a href="https://coronavirus.duke.edu/">COVID-19</a> I have been working remotely. However, please feel free to use the contact and scheduling information above and I will coordinate a remote Zoom meeting.
+{: .notice--danger}

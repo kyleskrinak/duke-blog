@@ -7,6 +7,13 @@ categories:
   - Drupal
 tags:
   - Drupalcon Seattle 2019
+header:
+  overlay_image: /assets/images/drupal_logo.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Drupal"
+  actions:
+  - label: "More Info"
+    url: "https://drupal.org"
 ---
 
 The Higher Ed Summit organizers had considerably redesigned the schedule and makeup of the summit. I say to a significantly improved format. 

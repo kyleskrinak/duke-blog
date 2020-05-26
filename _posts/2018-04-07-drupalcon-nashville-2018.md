@@ -9,6 +9,13 @@ tags:
 toc: true
 toc_label: "Session quick links"
 toc_icon: "cog"
+header:
+  overlay_image: /assets/images/drupal_logo.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Drupal"
+  actions:
+  - label: "More Info"
+    url: "https://drupal.org"
 ---
 
 I will be leading two sessions at the [DrupalCon Higher Education Summit](https://events.drupal.org/nashville2018/higher-ed-summit) on Monday, April 8th, 2018, and I&rsquo;m using this post for my preparation notes.

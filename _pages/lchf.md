@@ -57,15 +57,12 @@ I came for the weight-loss and found a healthier way of living.
 * [Adapt Your Life](https://www.adaptyourlife.com "Adapt Your Life weblink") shares LCHF information with the public, with Dr. Westman and others in the medical or scientific community leading on various related topics. They maintain an active [YouTube channel](https://www.youtube.com/channel/UCni9TCw0YPwTdu7BYF3j0Eg "Ask Adapt YouTube video channel.") as well.
 * [DietDoctor](https://www.dietdoctor.com "DietDoctor website") 
   * From their website; "Our mission is to find the latest and most trustworthy science and practical knowledge about health, make it inspiring and simple to use, and accessible and free for everyone – thus empowering people everywhere to revolutionize their health."
-* The **Two Keto Dudes** [podcast](http://2ketodudes.com/ "2Ketodudes podcast") and [forum](https://www.ketogenicforums.com "Two Keto Dudes online forum").
-  * In their zeal to promote the Keto lifestyle and their basis towards evidence-based claims, they tend to over-complicate LCHF. Once you have a solid footing in LCHF/Keto, they are an excellent resource.
-  * They also have a well-known thread; the [“The Great Big Public Keto Before And After Thread!”](https://www.ketogenicforums.com/t/the-great-big-public-keto-before-and-after-thread/38545 "Great Big Public Keto Before and After Thread") that is well worth a visit. 
 
 ### Podcasts
 
 * **Diet Doctor** has started a bi-weekly podcast September 1, 2018, hosted by [Dr. Bret Scher](https://www.dietdoctor.com/authors/dr-bret-scher "Dr. Bret Scher’s bio page on DietDoctor.com"), focusing on LCHF topics.  
 
-* **Low Carb MD Podcast** describes their [podcast](http://www.lowcarbmd.com/) as; “is a patient-centered podcast focusing on weight loss, wellness, and preventative medicine. The co-hosts, Dr. Brian Lenzkes, Dr. Tro Kalayjian, Dr. Jason Fung, and Megan Ramos will interview a new guest on each episode and walk the listeners through how they approach weight loss, wellness and disease reversal with their patients.” 
+* **Low Carb MD Podcast** describes their [podcast](http://www.lowcarbmd.com/) as; “is a patient-centered podcast focusing on weight loss, wellness, and preventative medicine. The co-hosts, <a href="https://twitter.com/BrianLenzkes">Dr. Brian Lenzkes</a> and <a href="https://twitter.com/DoctorTro">Dr. Tro Kalayjian</a> will interview a new guest on each episode and walk the listeners through how they approach weight loss, wellness and disease reversal with their patients.” Not that you asked &mdash; but &mdash; Dr. Tro's online twitter persona is a little over-the-edge for my tastes.
 
 * **Human Performance Outliers Podcast** features Dr. Shawn Baker and Zach Bitter with a [wide-ranging discussion format.](https://humanperformanceoutliers.libsyn.com/) They are primarily focused on carnivore but include low-carb and paleo guests as well.
 

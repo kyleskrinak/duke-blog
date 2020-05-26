@@ -11,6 +11,7 @@ header:
   overlay_filter: rgba(0, 128, 128, 0.5)
   caption: image from [here](https://pixabay.com/en/restaurant-classic-interior-decor-601304/)
 date: 2018-10-28 16:37 -0400
+hidden: true
 ---
 
 ## Better Dining through Butter

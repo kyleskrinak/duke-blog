@@ -10,6 +10,7 @@ categories:
   - LCHF
   - Personal productivity
 classes: wide
+hidden: true
 ---
  
 I was a computer systems magazine production manager in the early ’90s, in NYC, at Hachette-Filipacchi Magazines. Their portfolio included Elle, Woman’s Day and Stereo Review, among other popular national magazines. There were a lot of celebrities about. It was a fantastic and exciting job for this young buck. My business attire was a dress shirt and tie, which was common then and there. Being young and eager to impress, I found how I dressed helped me in my career. It adds an informal statement of seriousness and professionalism, as opposed to my inclination towards stumbling humor. While I didn't "have to" dress well, doing so was a self-reinforcing positive loop. I grew fond of my shirt and tie attire.

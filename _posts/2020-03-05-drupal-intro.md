@@ -3,6 +3,7 @@ layout: reveal
 title: Introduction to Drupal
 excerpt: TTS’s training for our new Drupal users
 permalink: /presentations/20-03-05-drupal-intro.html
+comments: false
 ---
 {::nomarkdown}
 
