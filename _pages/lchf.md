@@ -14,7 +14,8 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Delicious melty butter, awaiting food enhancement."
 ---
-{% include figure image_path="/assets/images/before-after.jpg" alt="Before and after photo" caption="Me, June 2016, 285 lbs, left and January 2019, 225 lbs, right" %}
+
+{% include figure image_path="/assets/images/2014-08-2020-06-1200.jpg" alt="Left, working the camera, 2014-August. Right, 2020-June" caption="Left, working the camera at my son’s football game, 2014-August. Right, 2020-June." %}
 
 ## Summary
 
