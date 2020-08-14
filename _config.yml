@@ -121,11 +121,11 @@ author:
     - label: "StackOverflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://www.stackoverflow.com/users/479709/screenack"
-    - label: "Flickr"
-      icon: "fab fa-fw fa-flickr"
-      url: "https://www.flickr.com/photos/screenack"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    - # label: "Flickr"
+      # icon: "fab fa-fw fa-flickr"
+      # url: "https://www.flickr.com/photos/screenack"
+    - # label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
