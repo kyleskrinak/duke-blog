@@ -12,6 +12,7 @@ categories:
 header:
   overlay_image: /assets/images/181008-butter.JPG
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  og_image: /assets/images/2014-08-2020-06-1200.jpg
   caption: "Delicious melty butter, awaiting food enhancement."
 ---
 
@@ -64,8 +65,6 @@ I came for the weight-loss and found a healthier way of living.
 * **Diet Doctor** has started a bi-weekly podcast September 1, 2018, hosted by [Dr. Bret Scher](https://www.dietdoctor.com/authors/dr-bret-scher "Dr. Bret Scher’s bio page on DietDoctor.com"), focusing on LCHF topics.  
 
 * **Low Carb MD Podcast** describes their [podcast](http://www.lowcarbmd.com/) as; “is a patient-centered podcast focusing on weight loss, wellness, and preventative medicine. The co-hosts, <a href="https://twitter.com/BrianLenzkes">Dr. Brian Lenzkes</a> and <a href="https://twitter.com/DoctorTro">Dr. Tro Kalayjian</a> will interview a new guest on each episode and walk the listeners through how they approach weight loss, wellness and disease reversal with their patients.” Not that you asked &mdash; but &mdash; Dr. Tro's online twitter persona is a little over-the-edge for my tastes.
-
-* **Human Performance Outliers Podcast** features Dr. Shawn Baker and Zach Bitter with a [wide-ranging discussion format.](https://humanperformanceoutliers.libsyn.com/) They are primarily focused on carnivore but include low-carb and paleo guests as well.
 
 ### Books and Authors
 
