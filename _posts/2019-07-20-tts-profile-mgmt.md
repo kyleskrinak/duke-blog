@@ -1,7 +1,7 @@
 ---
 layout: reveal
 title: How to Manage Departmental Faculty and Staff Data
-excerpt: TTS’s July 2019 Open Office Hours presentation, revised April 2020
+excerpt: TTS’s July 2019 Open Office Hours presentation, revised October 2020
 permalink: /presentations/19-07-tts-profile.html
 comments: false
 ---

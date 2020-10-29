@@ -7,6 +7,7 @@ header:
   overlay_image: "/assets/images/19-10-31-mom-me.jpg"
   overlay_filter: rgba(0, 0, 128, 0.5)
   caption: Mom and me, circa 2016, pre-stroke
+  og_image: "/assets/images/Mom-memorandum.jpg"
 categories:
 - Personal
 classes: wide

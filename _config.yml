@@ -22,7 +22,7 @@ subtitle                 : Web Development and Systems Administration Management
 name                     : "Kyle Skrinak"
 description: >- # this means to ignore newlines until "baseurl:"
   Kyle Skrinak, IT Manager, Trinity College of Arts &amp; Sciences, Duke University
-url                      : "https://people.duke.edu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://people.duke.edu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/~kds38" # the subpath of your site, e.g. "/blog"
 repository               : kyleskrinak/duke-blog # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
