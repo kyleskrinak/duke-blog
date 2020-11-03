@@ -1,8 +1,10 @@
 ---
 layout: reveal
 title: Introduction to Drupal
-excerpt: TTS’s training for our new Drupal users
+excerpt: Training for Trinity College of Arts & Sciences' new Drupal content editors
 permalink: /presentations/20-03-05-drupal-intro.html
+header:
+  og_image: "/assets/images/drupal_logo.png"
 comments: false
 ---
 {::nomarkdown}

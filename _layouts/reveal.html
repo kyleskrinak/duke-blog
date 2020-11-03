@@ -1,8 +1,10 @@
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/reveal/css/reveal.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/reveal/css/theme/black.css">
+    {% include head.html %}
+    {% include head/custom.html %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/reveal/reveal.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/reveal/theme/black.css" id="theme">
     <style>
     .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5 {
                   text-transform: none;
@@ -20,16 +22,20 @@
                  data-separator="^\n\n\n"
                  data-separator-vertical="^\n\n"
                  data-separator-notes="^Note:">
-          {{ content }}
+		<textarea data-template>
+		  {{ content }}
+		</textarea>
         </section>
       </div>
     </div>
 
-    <script src="{{ site.baseurl }}/assets/reveal/js/reveal.js"></script>
-    <script src="{{ site.baseurl }}/assets/reveal/plugin/markdown/marked.js"></script>
+    <script src="{{ site.baseurl }}/assets/reveal/reveal.js"></script>
+    <script src="{{ site.baseurl }}/assets/reveal/plugin/markdown/marked.min.js"></script>
     <script src="{{ site.baseurl }}/assets/reveal/plugin/markdown/markdown.js"></script>
+    <script src="{{ site.baseurl }}/assets/reveal/plugin/menu/menu.js"></script>
     <script>
       Reveal.initialize({
+	  plugins: [ RevealMarkdown, RevealMenu ],
         	// The "normal" size of the presentation, aspect ratio will be preserved
           // when the presentation is scaled to fit different resolutions. Can be
           // specified using percentage units.
@@ -43,7 +49,16 @@
           // Bounds for smallest/largest possible scale to apply to content
           minScale: 0.2,
           maxScale: 1.0,
-          history: true
+          history: true,
+	  menu: {
+		  custom: [
+			  {
+				  title: 'Links',
+				  icon: '<i class="fa fa-link">',
+				  src: '{{ site.baseurl }}/reveallinks.html'
+			  }
+		  ]
+	  }
       });
     </script>
 

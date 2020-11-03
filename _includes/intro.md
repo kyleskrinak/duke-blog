@@ -1,4 +1,4 @@
-I am the manager of Web Development and Systems Administration for the [Trinity College of Arts &amp; Science’s](https://trinity.duke.edu/) Technology Systems (TTS) at [Duke University](https://duke.edu).
+I am an IT manager at [Duke University](https://duke.edu). My current focus is Web Development and Systems Administration for the [Trinity College of Arts &amp; Science](https://trinity.duke.edu/) as I transition to Duke's <a href="https://oit.duke.edu/">Office of Information Technology</a>.
 
 Please Use <trinitywebsupport@duke.edu> for all support-related correspondence. This will better ensure our team can better help you.
 {: .notice--info}
