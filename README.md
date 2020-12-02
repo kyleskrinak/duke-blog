@@ -121,6 +121,7 @@ To install:
    source "https://rubygems.org"
 
    gem "github-pages", group: :jekyll_plugins
+   gem "jekyll-include-cache", group: :jekyll_plugins
    ```
 
 2. Add `jekyll-include-cache` to the `plugins` array of your `_config.yml`.
@@ -131,7 +132,7 @@ To install:
    bundle
    ```
 
-4. Add `remote_theme: "mmistakes/minimal-mistakes@4.20.2"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
+4. Add `remote_theme: "mmistakes/minimal-mistakes@4.21.0"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
 
 **Looking for an example?** Use the [Minimal Mistakes remote theme starter](https://github.com/mmistakes/mm-github-pages-starter/generate) for the quickest method of getting a GitHub Pages hosted site up and running. Generate a new repository from the starter, replace sample content with your own, and configure as needed.
 
