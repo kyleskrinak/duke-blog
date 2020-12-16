@@ -161,6 +161,7 @@ https://people.duke.edu/~kds38
 
 ----
 
+* Continue to enhance our content editorial experience
 * Weekly meetings with the TCA&S Comm team
 * Tamp down scope creep as we scale
 * Synchronize core features and display across all websites
