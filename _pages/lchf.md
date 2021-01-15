@@ -56,8 +56,9 @@ I came for the weight-loss and found a healthier way of living.
 
 * **Dr. Eric C Westman’s** [ Scholars@Duke profile ](https://scholars.duke.edu/person/ewestman "Dr. Westman’s Scholars at Duke profile page")
 * **Dr. Westman’s** [Facebook group](https://www.facebook.com/groups/DukeLowCarbSupportGroup "Dr. Westman’s facebook group page") page.
-* [Adapt Your Life](https://www.adaptyourlife.com "Adapt Your Life weblink") shares LCHF information with the public, with Dr. Westman and others in the medical or scientific community leading on various related topics. They maintain an active [YouTube channel](https://www.youtube.com/channel/UCni9TCw0YPwTdu7BYF3j0Eg "Ask Adapt YouTube video channel.") as well.
-* [DietDoctor](https://www.dietdoctor.com "DietDoctor website") 
+* [**Adapt Your Life**](https://www.adaptyourlife.com "Adapt Your Life weblink") shares LCHF information with the public, with Dr. Westman and others in the medical or scientific community leading on various related topics. They maintain an active [YouTube channel](https://www.youtube.com/channel/UCni9TCw0YPwTdu7BYF3j0Eg "Ask Adapt YouTube video channel.") as well.
+* **Amy Berger**, [Tuit Nutrition](http://www.tuitnutrition.com "Amy Berger's website"), who is a Certified Nutrition Specialist and her focus on "Keto without the Crazy," and the crazy is getting worse and an increasingly crazy rate. Not everyone who studies or promotes low-carb eating sufficiently overlap in their protocol, but it's my experience that she and Dr. Westman's protocols overlap quite well.
+* [**DietDoctor**](https://www.dietdoctor.com "DietDoctor website") 
   * From their website; "Our mission is to find the latest and most trustworthy science and practical knowledge about health, make it inspiring and simple to use, and accessible and free for everyone – thus empowering people everywhere to revolutionize their health."
 
 ### Podcasts
