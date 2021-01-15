@@ -1,1 +1,2 @@
-baseurl                  : "/" # path for GitHub pages
+url                      : "https://kyleskrinak.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # path for GitHub pages

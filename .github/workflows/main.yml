@@ -2,7 +2,8 @@ name: Testing the GitHub Pages publication
 
 on:
   push:
-    - master
+    branches:
+      - master
 
 jobs:
   jekyll:
@@ -22,7 +23,6 @@ jobs:
     - uses:  helaili/jekyll-action@v2
       env:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
-        jekyll_build_options: "--config _config.yml, _config-gh-pages.yml"
 
     # Specify the Jekyll source location as a parameter
     - uses: helaili/jekyll-action@v2
@@ -30,6 +30,7 @@ jobs:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
       with:
         jekyll_src: './_site'
+        jekyll_build_options: '--config _config.yml,_config-gh-pages.yml'
 
     # Specify the target branch (optional)
     - uses: helaili/jekyll-action@v2
@@ -37,3 +38,4 @@ jobs:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
       with:
         target_branch: 'gh-pages'
+        jekyll_build_options: '--config _config.yml,_config-gh-pages.yml'
