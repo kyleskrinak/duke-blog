@@ -23,6 +23,7 @@ jobs:
     - uses:  helaili/jekyll-action@v2
       env:
         JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+        jekyll_build_options: '--config _config.yml,_config-gh-pages.yml'
 
     # Specify the Jekyll source location as a parameter
     - uses: helaili/jekyll-action@v2
