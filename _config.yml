@@ -298,3 +298,25 @@ defaults:
     values:
       layout: reveal
       comments: false
+
+# Jekyll compose defaults
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      description:
+      layout: single
+      classes: wide
+      excerpt: 
+      image:
+      category:
+      tags:
+    posts:
+      description:
+      layout: single
+      classes: wide
+      excerpt: 
+      image:
+      category:
+      tags:
+      published: false
+      sitemap: false
