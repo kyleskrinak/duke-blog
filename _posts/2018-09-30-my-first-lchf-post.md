@@ -2,7 +2,7 @@
 layout: single
 title: From My Wife’s Kitchen
 categories:
-  - lchf
+  - LCHF
 excerpt: "Posts and logs from Kyle about food"
 header:
   overlay_image: /assets/images/flatpanbake.jpg

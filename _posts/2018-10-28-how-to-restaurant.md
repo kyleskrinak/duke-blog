@@ -4,7 +4,7 @@ title: How to Pick a Restaurant
 toc: true
 toc_sticky: true
 categories:
-  - lchf
+  - LCHF
 excerpt: Asking about one common and simple ingredient can expose a restaurant
 header:
   overlay_image: /assets/images/empty_dining.jpg

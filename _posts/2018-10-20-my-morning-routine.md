@@ -4,7 +4,7 @@ toc: true
 toc_sticky: true
 title: My Morning Routine
 categories:
-  - lchf
+  - LCHF
   - Personal productivity
 excerpt: How stumbling into a morning routine became surprisingly transformative and motivational
 header:

@@ -2,6 +2,8 @@
 layout: single
 title: Jekyll, Hugo, and Me
 date: 2021-01-16 10:00 -0500
+categories:
+  - Static Websites
 description: 
 classes: wide
 excerpt: The battle for a better static website generator

@@ -7,7 +7,7 @@ header:
   overlay_filter: rgba(128, 0, 0, 0.5)
   caption: image from [here](https://commons.wikimedia.org/wiki/File:Bagby_hot_springs_oregon.jpg#file)
 categories:
-  - lchf
+  - LCHF
 classes: wide
 date: 2018-10-31 12:15 -0400
 ---
