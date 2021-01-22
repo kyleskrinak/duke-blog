@@ -4,7 +4,10 @@ title: My Hero, Karen &mdash; Part II
 date: 2021-01-19 04:58 -0500
 description: Wisps of smoke crawl from the eaves of the roof in front of me.
 classes: wide
-excerpt: Wisps of smoke crawl from the eaves of the roof in front of me.
+excerpt: My squatting calves, trembling and tip-toe, are eager to get me out of there. Karen and I decide our only option is for me to jump.<br/><br/>The two adult men, across the street, continue to relish their evening’s spectacle.
+header:
+  overlay_image: "/assets/images/skrinak-sibs-60s.jpg"
+  caption: My sister and hero, Karen, far left, and the boy she saved, far right, circa early 1960's
 image: 
 category: Personal
 tags: Story-telling 
@@ -12,9 +15,10 @@ published: false
 sitemap: false
 ---
 
-*I originally posted this on my Facebook account. However, Facebook is deprecating their "notes" blog-like ability, so I'm moving this to my blog.* (This is the conclusion to “Two Guys Watch a Burning Building.” I like this title better. The burning house, and attendant ne’er-do-wells, are incidental. That’s Karen, on the left, above.)
+*I originally posted this on my Facebook account on March 26, 2017. However, Facebook is deprecating their "notes" blog-like ability, so I'm moving this to my blog.* (This is the conclusion to “<a href="{{ site.baseurl }}/personal/two-guys-watch-a-burning-house/">Two Guys Watch a Burning Building.</a>” I like this title better. The burning house, and attendant ne’er-do-wells, are incidental. That’s Karen, on the left, above.)
 
-My perch, 44 years ago, after some significant renovation.
+{% include figure image_path="/assets/images/88-walnut-roof.jpg" alt="My perch, 40-some years ago, after some significant renovation, and shrubs." caption="My perch, 40-some years ago, after some significant renovation, and shrubs." %} 
+
 
 The windows of Kris’s bedroom were the smallish size of the windows in my room. Their bottoms began a couple of inches above my belly-button, making passing through it difficult, even for this expert climber-into-and-out-of-er. Is this really the only way out? I go back into the room, and look down the stairwell. The flames are much brighter now. I can feel the heat rising up the steps. The flames luminosity pierce the veil of smoke now, the fire now visible. The smoke hurts my lungs, my eyes — I must get to fresh air. My young mind assessed that leaving Kris’s door open would be better for the house and my options. Of course, this only made my situation worse.
 
