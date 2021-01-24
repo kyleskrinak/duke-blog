@@ -10,7 +10,7 @@ header:
   caption: image, thanks to "epSos.de", from [here](https://commons.wikimedia.org/wiki/File:Bright_Stars_of_Milky_Way_on_the_Dark_blue_Sky_of_Astronomy.jpg)
 category: Personal
 tags: Story-telling
-published: true
+hidden: true
 ---
 ***Note:** I originally posted this on my Facebook account on <a href="https://www.facebook.com/notes/kyle-skrinak/shinleaf-campsite/52885601624">November 8, 2008</a>. However, Facebook is doing away with their "notes" blog-like ability, so I've moved this content to this blog.* 
 {: .notice--info}
