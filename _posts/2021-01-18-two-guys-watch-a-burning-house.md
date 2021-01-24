@@ -11,10 +11,11 @@ header:
 image: 
 category: Personal 
 tags: Story-telling
-published: false 
+hidden: true
+published: true 
 ---
 
-*I originally posted this on my Facebook account on March 19, 2017. However, Facebook is doing away with their "notes" blog-like ability, so I'm moving this to my blog.* 
+*I originally posted this on my Facebook account on <a href="https://www.facebook.com/notes/kyle-skrinak/two-guys-watch-a-burning-house/10154279590431625">March 19, 2017</a>. However, Facebook is doing away with their "notes" blog-like ability, so I'm moving this to my blog.* 
 
 I forget when in 1973 the Skrinak family house caught on fire. I’m guessing it was in late Spring, but that was so long ago. I do remember this &mdash; it was warm enough for my 11-year-old self to be on the roof of my house in my pajamas.
 
@@ -28,11 +29,11 @@ From my bed, I peeked my eyes open. The row of windows had slightly dimmed. I wa
 
 Kimmer and Kris were scrambling to put the fire out. Someone called Mom, and she rushed home. Neighbors were helping as well with their garden hoses. Karen was focused on yelling for me to get out. The fire department had not yet come. Though a mere half-a-mile away, they took over 30 minutes to respond. I suspect more time than that. They play an imperceptible role in this story. Though I now daily pray for firefighters and first responders and honor the work they do, the hero in this story is Karen.
 
-The last time I was this relaxed was when I was under anesthesia to get my tonsils out. “Kyle! Kyle!” Again, I sensed Karen. I didn’t hear her. I felt her, dreamt her, calling me, demanding my attention. “Kyle! Kyle!” I forced my eyes open. A million pinpricks greet my eyes. I wanted to shut them hard to keep the burning pain out. My breathing was difficult, but the difficulty had come gradually, in my sleep. The windows now were nearly imperceptible. “Kyle! Kyle!” I rose out of bed and walked to the stairwell. Looking down the steps, I see a dim eerie light show of a shifting red-orange-yellow, from behind a thin black smoke veil, raging from the kitchen. I couldn’t see the flames. The light above the steps, which was my night-light, was darkened by smoke. Unmistakably, something was wrong. Now I’m fully awake.
+The last time I was this relaxed was when I was under anesthesia to get my tonsils out. *“Kyle! Kyle!”* Again, I sensed Karen. I didn’t hear her. I felt her, dreamt her, calling me, demanding my attention. *“Kyle! Kyle!”* I forced my eyes open. A million pinpricks greet my eyes. I wanted to shut them hard to keep the burning pain out. My breathing was difficult, but the difficulty had come gradually, in my sleep. The windows now were nearly imperceptible. *“Kyle! Kyle!”* I rose out of bed and walked to the stairwell. Looking down the steps, I see a dim eerie light show of a shifting red-orange-yellow, from behind a thin black smoke veil, raging from the kitchen. I couldn’t see the flames. The light above the steps, which was my night-light, was darkened by smoke. Unmistakably, something was wrong. Now I’m fully awake.
 
 I pass through Kris’s room to his two smallish windows. I snap out of my dream-like state, and now I can hear Karen frantically and unmistakably calling my name. I poke my head out the window. My eyes and lungs get immediate relief. I see Karen, hands cuffed to her mouth to focus her shouts, and she is relieved to now see me. I can see our neighbors gathering to watch the unfolding drama.
 
-Amidst the chaos, I notice two adult men, across Walnut Street, watching, having found their evening’s diversion. Karen and I now scramble to figure out how to get me out of there.
+Amidst the chaos, I notice two adult men, across Walnut Street, casually watching, having found their evening’s diversion. Karen and I now scramble to figure out how to get me out of there.
 
 
 <a href="{{ site.baseurl }}/personal/my-hero-karen/">Continued…</a>
