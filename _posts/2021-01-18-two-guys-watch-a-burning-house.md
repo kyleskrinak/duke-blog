@@ -15,8 +15,7 @@ hidden: true
 published: true 
 ---
 
-***Note:** I originally posted this on my Facebook account on <a href="https://www.facebook.com/notes/kyle-skrinak/two-guys-watch-a-burning-house/10154279590431625">March 19, 2017</a>. However, Facebook is doing away with their "notes" blog-like ability, so I've moved this content to this blog.* 
-{: .notice--info}
+{% include fb_migrate fb_url="https://www.facebook.com/notes/kyle-skrinak/two-guys-watch-a-burning-house/10154279590431625" original_date="March 19th, 2017" %}
 
 I forget when in 1973 the Skrinak family house caught on fire. I’m guessing it was in late Spring, but that was so long ago. I do remember this &mdash; it was warm enough for my 11-year-old self to be on the roof of my house in my pajamas.
 

@@ -15,8 +15,7 @@ published: true
 hidden: true
 ---
 
-***Note:** I originally posted this on my Facebook account on <a href="https://www.facebook.com/notes/kyle-skrinak/karen-my-hero/10154297420991625">March 26th, 2017</a>. However, Facebook is getting rid of their "notes" blog-like ability, so I've moved this content to my blog, with some edits for clarity.* 
-{: .notice--info}
+{% include fb_migrate fb_url="https://www.facebook.com/notes/kyle-skrinak/karen-my-hero/10154297420991625" original_date="March 26th, 2017" %}
 
 This is the conclusion to “<a href="{{ site.baseurl }}/personal/two-guys-watch-a-burning-house/">Two Guys Watch a Burning Building.</a>” I like this title better. The burning house, and attendant ne’er-do-wells, are incidental. That’s Karen, on the left, above.
 
